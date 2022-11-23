@@ -1,0 +1,17 @@
+.titulo{
+    color: green;
+    text-align: center;
+    font-family: 'Jolly Lodger', cursive;
+    font-size: 75px;
+    
+
+}
+
+.img{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+    
+    
+}
